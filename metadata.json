@@ -1,0 +1,6 @@
+{
+  "name": "SELSABIL DELIVERY",
+  "description": "Plateforme E-commerce B2B et B2C pour le marché algérien avec gestion gros/demi-gros/détail, carton/unité et suivi de livraison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
